@@ -1,1 +1,2 @@
 three
+I am adding figure 3
